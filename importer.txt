@@ -1,0 +1,4 @@
+1 : Aller dans sur http://localhost/phpmyadmin/
+2 : Chercher Importer 
+3 : Parcourir et sélectionner africa_airline.sql qui est dans le dossier BD
+
